@@ -1,4 +1,4 @@
-# Hi, I'm Khan
+# Hi, I'm Furqan Khan
 
 I'm a management consultant. I make slides. Big slides. Important slides. And one day I'm sitting there thinking, "Man, I tell people how to run their business all day... and I can't even build a to-do app."
 
